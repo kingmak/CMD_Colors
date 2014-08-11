@@ -11,5 +11,3 @@ while True:
             system('color ' + color)
             raw_input('Color is: ' + color + ' ')
             system('cls')
-            
-raw_input('\n\nDone\n')
